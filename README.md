@@ -222,7 +222,7 @@ export default Display;
 ```
 ## OUTPUT
 
-
+![alt text](<Screenshot 2026-03-13 134352.png>)
 
 
 ## RESULT
